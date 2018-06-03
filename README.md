@@ -1,9 +1,10 @@
 # hubot-discord-permissions
 
-
 Want to know what havoc your Hubot can wreck? Output the permissions of your Discord Hubot to the console!
 
 For every guild your Hubot is a member of, the script will output your Hubot's associated permissions in the format of Discord's OAuth permission selection screen.
+
+Because this is specifically for Discord, you'll need the [hubot-discord](https://github.com/thetimpanist/hubot-discord) adapter. Otherwise, the script will do nothing.
 
 <img src="example.png" width="588" alt="Console output"/>
 
