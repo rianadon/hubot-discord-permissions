@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/rianadon/hubot-discord-permissions/issues"
   },
+  "homepage": "https://github.com/rianadon/hubot-discord-permissions",
   "dependencies": {
     "@types/node": "^10.3.0"
   },
